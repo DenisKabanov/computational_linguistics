@@ -1,0 +1,1 @@
+В этой папке должны быть вектора-эмбеддинги [GloVe](https://nlp.stanford.edu/projects/glove/) `glove.6B.300d.txt`, но они имеют слишком большой размер для github, поэтому их здесь нет (но их можно скачать по следующей [ссылке](https://nlp.stanford.edu/data/glove.6B.zip)).
